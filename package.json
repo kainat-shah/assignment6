@@ -5,6 +5,7 @@
   "dependencies": {
     "cra-template": "1.2.0",
     "firebase": "^11.2.0",
+    "gh-pages": "^6.3.0",
     "install": "^0.13.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -35,4 +36,7 @@
       "last 1 safari version"
     ]
   }
+
+
+
 }
